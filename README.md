@@ -41,6 +41,9 @@
 
 # Tools You Need:
 <ul>
+      <li>
+    Get a relevent browser. Download it here: <a href="https://www.google.com/chrome/">Chrome </a> or <a href="https://www.mozilla.org/en-US/firefox/new/">Firefox </a> or if you are cool (like us) <a href="https://brave.com/download/">Brave </a>
+    </li>
 <li>
   VSCode editor for coding. Check <a href="https://github.com/HackTechGO/fundamentals/tree/master/VSCodeTips">THIS</a> out
   </li>
@@ -49,6 +52,10 @@
   </li>
   <li>
     Trello for agile management. Sign up <a href="https://trello.com/">HERE </a>and wait for the invitation ;)
+    </li>
+
+    <li>
+    Get Lighitshot for screenshots. Download it <a href="https://app.prntscr.com/en/">HERE </a>
     </li>
 </ul>
 
