@@ -42,7 +42,7 @@
 # Tools You Need:
 <ul>
   <li>
-    Get a relevent browser. Download it here: <a href="https://www.google.com/chrome/">Chrome </a> or <a href="https://www.mozilla.org/en-US/firefox/new/">Firefox </a> or if you are cool (like us) <a href="https://brave.com/download/">Brave </a>
+    Get a relevent browser. Download it here: <a href="https://www.google.com/chrome/">Chrome </a> or <a href="https://www.mozilla.org/en-US/firefox/new/">Firefox </a> or if you are cool <a href="https://brave.com/download/">Brave </a>
   </li>
   
   <li>
@@ -56,10 +56,23 @@
   <li>
     Trello for agile management. Sign up <a href="https://trello.com/">HERE </a>and wait for the invitation ;)
 </li>
+</ul>
+
+# Useful Resources:
+<ul>
 
 <li>
     Get Lighitshot for screenshots. Download it <a href="https://app.prntscr.com/en/">HERE </a>
     </li>
+    
+ <li>
+    Get Wappalyzer extension to identify technology on websites. Download it <a href="https://www.wappalyzer.com/">HERE </a>
+  </li>   
+  <li>Get ColorZilla to pick colors. Check <a href="https://stackshare.io/">Stackshare</a>
+  </li>
+ </li>   
+  <li>Compare developer tools. Check <a href="https://www.colorzilla.com/chrome/">ColorZilla</a>
+  </li>
 </ul>
 
 # The Art of Asking a Question:
