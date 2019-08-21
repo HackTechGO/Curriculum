@@ -3,23 +3,28 @@
 
 <table style="width:100%">
   <tr>
-    <th>Week</th>
+    <th>Days</th>
     <th>Topic</th>
     <th>Details</th>
   </tr>
+    <tr>
+    <td>1</td>
+    <td>Intro & Environment Setup</td>
+    <td><a href="https://github.com/HackTechGO/Curriculum">Details </a></td>
+  </tr>
   <tr>
-    <td>1-2</td>
+    <td>2-3</td>
     <td>HTML</td>
     <td><a href="https://github.com/HackTechGO/html">Details </a></td>
   </tr>
   <tr>
-    <td>3-4</td>
+    <td>4-5</td>
     <td>CSS</td>
-    <td>Details</td>
+    <td><a href="https://github.com/HackTechGO/CSS">Details </a></td>
   </tr>
    <tr>
-    <td></td>
-    <td></td>
+    <td>6-11</td>
+    <td>Javascript</td>
     <td></td>
   </tr>
      <tr>
@@ -42,7 +47,7 @@
 # Tools You Need:
 <ul>
   <li>
-    Get a relevent browser. Download it here: <a href="https://www.google.com/chrome/">Chrome </a> or <a href="https://www.mozilla.org/en-US/firefox/new/">Firefox </a> or if you are cool <a href="https://brave.com/download/">Brave </a>
+    Get a relevent browser. Download <a href="https://www.google.com/chrome/">Chrome </a> 
   </li>
   
   <li>
