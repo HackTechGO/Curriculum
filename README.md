@@ -44,7 +44,7 @@
   </tr>
 </table>
 
-# Tools You Need:
+# Tools You Need (MUST):
 <ul>
   <li>
     Get a relevent browser. Download <a href="https://www.google.com/chrome/">Chrome </a> 
@@ -63,7 +63,7 @@
 </li>
 </ul>
 
-# Useful Resources:
+# Some Other Useful Tools:
 <ul>
 
 <li>
@@ -73,10 +73,13 @@
  <li>
     Get Wappalyzer extension to identify technology on websites. Download it <a href="https://www.wappalyzer.com/">HERE </a>
   </li>   
-  <li>Get ColorZilla to pick colors. Check <a href="https://stackshare.io/">Stackshare</a>
+  
+  <li>
+  Get ColorZilla to pick colors. Check <a href="https://www.colorzilla.com/chrome/">ColorZilla</a>
   </li>
- </li>   
-  <li>Compare developer tools. Check <a href="https://www.colorzilla.com/chrome/">ColorZilla</a>
+  
+  <li>
+  Compare developer tools. Check <a href="https://stackshare.io/">Stackshare</a>
   </li>
 </ul>
 
@@ -85,6 +88,7 @@
   <li>
     <a href="https://www.evernote.com/shard/s386/u/0/sh/cfd98b48-6f78-4719-b935-9a41d1912172/33435794d51037e5942b8cc551e70b85">How to be great at asking coding questions <a>
   </li>
+      
   <li>
     <a href="https://www.evernote.com/shard/s386/u/0/sh/d023cdb4-8bee-4f52-b41d-a215600b17fb/0d717de69a2e7b243540e2fd7a723ba4">15 Useful Code Sharing Websites for Web Developers </a>
   </li>
