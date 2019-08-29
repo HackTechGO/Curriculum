@@ -22,8 +22,13 @@
     <td>CSS</td>
     <td><a href="https://github.com/HackTechGO/CSS">Details </a></td>
   </tr>
+     <tr>
+    <td>6</td>
+    <td>Bootstrap</td>
+    <td><a href="https://github.com/HackTechGO/Bootstrap">Details </a></td>
+  </tr>
    <tr>
-    <td>6-11</td>
+    <td>7-12</td>
     <td>Javascript</td>
     <td></td>
   </tr>
