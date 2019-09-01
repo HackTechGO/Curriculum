@@ -30,7 +30,7 @@
    <tr>
     <td>7-12</td>
     <td>Javascript</td>
-    <td></td>
+    <td><a href="https://github.com/HackTechGO/JavaScript">Details </a></td>
   </tr>
      <tr>
     <td></td>
