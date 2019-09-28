@@ -32,10 +32,10 @@
     <td>Javascript</td>
     <td><a href="https://github.com/HackTechGO/JavaScript">Details </a></td>
   </tr>
-     <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+  <tr>
+    <td>8</td>
+    <td>jQuery</td>
+    <td> <a href="https://github.com/HackTechGO/jQuery/blob/master/README.md">Details</a></td>
   </tr>
      <tr>
     <td></td>
