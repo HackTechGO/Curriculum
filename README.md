@@ -22,7 +22,7 @@
     <td>CSS</td>
     <td><a href="https://github.com/HackTechGO/CSS">Details </a></td>
   </tr>
-     <tr>
+  <tr>
     <td>6</td>
     <td>Bootstrap</td>
     <td><a href="https://github.com/HackTechGO/Bootstrap">Details </a></td>
@@ -33,16 +33,35 @@
     <td><a href="https://github.com/HackTechGO/JavaScript">Details </a></td>
   </tr>
   <tr>
-    <td>8</td>
+    <td>13</td>
     <td>jQuery</td>
     <td> <a href="https://github.com/HackTechGO/jQuery/blob/master/README.md">Details</a></td>
   </tr>
-     <tr>
+  <tr>
+    <td>14</td>
+    <td>Wordpress</td>
+    <td><a href="https://github.com/HackTechGO/jQuery/blob/master/README.md">Details</a></td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>Soft Skills</td>
+    <td><a href="https://github.com/HackTechGO/Branding-CV-Linkedin"> Soft Skills & Branding</a></td>
+  </tr>
+       <tr>
     <td></td>
     <td></td>
     <td></td>
   </tr>
-     <tr>
+       <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+       <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>     <tr>
     <td></td>
     <td></td>
     <td></td>
