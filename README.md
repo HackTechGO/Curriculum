@@ -44,8 +44,8 @@
   </tr>
   <tr>
     <td>15</td>
-    <td>Soft Skills</td>
-    <td><a href="https://github.com/HackTechGO/Branding-CV-Linkedin"> Soft Skills & Branding</a></td>
+    <td>Soft Skills & Branding</td>
+    <td><a href="https://github.com/HackTechGO/Branding-CV-Linkedin"> Details </a></td>
   </tr>
        <tr>
     <td></td>
