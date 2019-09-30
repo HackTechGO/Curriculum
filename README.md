@@ -40,7 +40,7 @@
   <tr>
     <td>14</td>
     <td>Wordpress</td>
-    <td><a href="https://github.com/HackTechGO/jQuery/blob/master/README.md">Details</a></td>
+    <td><a href="https://github.com/HackTechGO/Wordpress">Details</a></td>
   </tr>
   <tr>
     <td>15</td>
