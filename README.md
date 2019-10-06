@@ -90,20 +90,22 @@
 # Some Other Useful Tools:
 <ul>
 
-<li>
-    Get Lighitshot for screenshots. Download it <a href="https://app.prntscr.com/en/">HERE </a>
-    </li>
-    
- <li>
-    Get Wappalyzer extension to identify technology on websites. Download it <a href="https://www.wappalyzer.com/">HERE </a>
-  </li>   
-  
   <li>
-  Get ColorZilla to pick colors. Check <a href="https://www.colorzilla.com/chrome/">ColorZilla</a>
+      Get Lighitshot for screenshots. Download it <a href="https://app.prntscr.com/en/">HERE </a>
+  </li>
+
+  <li>
+      Get Wappalyzer extension to identify technology on websites. Download it <a href="https://www.wappalyzer.com/">HERE </a>
+  </li>   
+
+  <li>
+    Get ColorZilla to pick colors. Check <a href="https://www.colorzilla.com/chrome/">ColorZilla</a>
   </li>
   
+  <li>Get flux bluelight filter. Check <a href="https://justgetflux.com/">Flux</a></li>
+
   <li>
-  Compare developer tools. Check <a href="https://stackshare.io/">Stackshare</a>
+    Compare developer tools. Check <a href="https://stackshare.io/">Stackshare</a>
   </li>
 </ul>
 
