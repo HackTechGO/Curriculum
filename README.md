@@ -46,11 +46,11 @@
     <td>15</td>
     <td>Soft Skills & Branding</td>
     <td><a href="https://github.com/HackTechGO/Branding-CV-Linkedin"> Details </a></td>
-  </tr>
+  </tr> 
        <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>16</td>
+    <td>Backend</td>
+    <td><a href="https://github.com/HackTechGO/Backend">Details</a></td>
   </tr>
        <tr>
     <td></td>
