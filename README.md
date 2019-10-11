@@ -53,9 +53,9 @@
     <td><a href="https://github.com/HackTechGO/Backend">Details</a></td>
   </tr>
        <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>17</td>
+    <td>Git & Github</td> 
+    <td><a href="https://github.com/HackTechGO/Git-Github">Details</a></td>
   </tr>
        <tr>
     <td></td>
