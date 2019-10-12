@@ -49,7 +49,7 @@
   </tr> 
        <tr>
     <td>16</td>
-    <td>Backend</td>
+    <td>Backend Basics & Command Line</td>
     <td><a href="https://github.com/HackTechGO/Backend">Details</a></td>
   </tr>
        <tr>
