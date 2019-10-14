@@ -79,7 +79,7 @@
   </li>
   
   <li>
-  Slack for communication. Install the <a href="https://slack.com/intl/en-no/downloads/">APP</a> both on your PC/Mac and phone! Then join the <a href="https://join.slack.com/t/hacktechgo/shared_invite/enQtNDI4MjYxMTU3NTIzLTk3Y2RjNTZiMGE5ODdmYjE3MTQ3ZjlhN2IzY2UwYTZkNmEyMmFjMmU4OTA2M2EwYWRjNjk1Yzc4MjE5NGFiZjY">GROUP</a>
+  Slack for communication. Install the <a href="https://slack.com/intl/en-no/downloads/">APP</a> both on your PC/Mac and phone! Then join the <a href="#">GROUP</a>
   </li>
   
   <li>
