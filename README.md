@@ -58,13 +58,38 @@
   </tr>
   <tr>
     <td></td>
+    <td>Node.js</td>
+    <td><a href="https://github.com/HackTechGO/Node.js">Details</a></td>
+  </tr>
+  <tr>
     <td></td>
+    <td>Express</td>
+    <td><a href="">Details</a></td>
+  </tr>
+    <tr>
     <td></td>
+    <td>MongoDB</td>
+    <td><a href="">Details</a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>API</td>
+    <td><a href="">Details</a></td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>Deployment</td>
+    <td><a href="">Details</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>React</td>
+    <td><a href="">Details</a></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td></td>
+    <td><a href="">Details</a></td>
   </tr>
 </table>
 
