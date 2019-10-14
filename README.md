@@ -89,7 +89,7 @@
   <tr>
     <td></td>
     <td></td>
-    <td><a href="#">Details</a></td>
+    <td><a href="#"></a></td>
   </tr>
 </table>
 
