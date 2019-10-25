@@ -52,12 +52,12 @@
     <td><a href="https://github.com/HackTechGO/Backend">Details</a></td>
   </tr>
   <tr>
-    <td>17-18</td>
+    <td>17-19</td>
     <td>Git & Github</td> 
     <td><a href="https://github.com/HackTechGO/Git-Github">Details</a></td>
   </tr>
   <tr>
-    <td>19</td>
+    <td>20</td>
     <td>Node.js</td>
     <td><a href="https://github.com/HackTechGO/Node.js">Details</a></td>
   </tr>
