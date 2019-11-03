@@ -87,9 +87,9 @@
     <td><a href="#">Details</a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td><a href="#"></a></td>
+    <td>...</td>
+    <td>Additional Training</td>
+    <td><a href="https://github.com/HackTechGO/Additional-Training">Details</a></td>
   </tr>
 </table>
 
