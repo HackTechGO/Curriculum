@@ -62,21 +62,21 @@
     <td><a href="https://github.com/HackTechGO/Node.js">Details</a></td>
   </tr>
   <tr>
-    <td>21</td>
+    <td>21-22</td>
     <td>Express</td>
     <td><a href="https://github.com/HackTechGO/Express">Details</a></td>
   </tr>
-    <tr>
-    <td></td>
-    <td>MongoDB</td>
-    <td><a href="#">Details</a></td>
-  </tr>
-    <tr>
+  <tr>
     <td></td>
     <td>API</td>
     <td><a href="#">Details</a></td>
   </tr>
-    <tr>
+  <tr>
+    <td></td>
+    <td>MongoDB</td>
+    <td><a href="#">Details</a></td>
+  </tr>
+  <tr>
     <td></td>
     <td>Deployment</td>
     <td><a href="#">Details</a></td>
