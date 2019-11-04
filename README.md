@@ -67,9 +67,9 @@
     <td><a href="https://github.com/HackTechGO/Express">Details</a></td>
   </tr>
   <tr>
-    <td></td>
+    <td>23</td>
     <td>API</td>
-    <td><a href="#">Details</a></td>
+    <td><a href="https://github.com/HackTechGO/API">Details</a></td>
   </tr>
   <tr>
     <td></td>
