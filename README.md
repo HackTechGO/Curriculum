@@ -74,7 +74,7 @@
   <tr>
     <td></td>
     <td>MongoDB</td>
-    <td><a href="#">Details</a></td>
+    <td><a href="https://github.com/HackTechGO/MongoDB">Details</a></td>
   </tr>
   <tr>
     <td></td>
