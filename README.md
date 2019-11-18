@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td>20</td>
-    <td>Node.js</td>
+    <td>Node & npm</td>
     <td><a href="https://github.com/HackTechGO/Node.js">Details</a></td>
   </tr>
   <tr>
