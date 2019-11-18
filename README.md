@@ -77,9 +77,9 @@
     <td><a href="https://github.com/HackTechGO/MongoDB">Details</a></td>
   </tr>
   <tr>
-    <td></td>
+    <td>25</td>
     <td>Deployment</td>
-    <td><a href="#">Details</a></td>
+    <td><a href="https://github.com/HackTechGO/Deployment">Details</a></td>
   </tr>
   <tr>
     <td></td>
@@ -92,7 +92,6 @@
     <td><a href="https://github.com/HackTechGO/Additional-Training">Details</a></td>
   </tr>
 </table>
-
 
 </br>
 ### HTML
