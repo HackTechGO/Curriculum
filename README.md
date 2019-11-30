@@ -1,4 +1,4 @@
-# HackTechGO Curriculum
+# HackTechGO Curriculum 2019
 
 <table style="width:100%">
   <tr>
@@ -82,26 +82,13 @@
     <td><a href="https://github.com/HackTechGO/Deployment">Details</a></td>
   </tr>
   <tr>
-    <td></td>
+    <td>26</td>
     <td>React</td>
-    <td><a href="#">Details</a></td>
+    <td><a href="https://github.com/HackTechGO/React">Details</a></td>
   </tr>
   <tr>
-    <td>...</td>
+    <td>27</td>
     <td>Additional Training</td>
     <td><a href="https://github.com/HackTechGO/Additional-Training">Details</a></td>
   </tr>
 </table>
-
-</br>
-### HTML
-### CSS
-### Javascript
-### Bootstrap
-### Wordpress
-### Command shell & Git & Github
-### Node.js
-### Express
-### Database
-### API
-### Deployment
